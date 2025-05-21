@@ -1,6 +1,6 @@
 # Ex. No.  - SIMULATION ANALYSIS ON SLIDER CRANK MECHANISM
 
-## DATE: 
+## DATE: 20/05/2025
 
 ## AIM:
 ###   To determine & simulate the displacement & velocity analysis for the given slider crank mechanism. 
@@ -45,9 +45,13 @@
 
 ## Output
 
+![Screenshot 2025-05-21 142409](https://github.com/user-attachments/assets/f9d9bde0-6b1d-410b-b3d6-d96ee490d9f6)
 
-### Name:
-### Register Number: 
+![Screenshot 2025-05-21 142420](https://github.com/user-attachments/assets/e039ca0b-58b3-4e3b-93aa-a2dd00faabcb)
+
+
+### Name:GOKUL S
+### Register Number: 212224230075
 
 ## RESULT:
 ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
